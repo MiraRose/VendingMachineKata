@@ -1,0 +1,5 @@
+Cloud Popcorn|5
+Little League Chew|2
+Potato Crisps|11
+U-Chews|1
+Total Sales|54.55
